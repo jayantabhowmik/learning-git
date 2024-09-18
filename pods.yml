@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: "2024-09-15T15:15:22Z"
   generateName: guestbook-ui-649789b49c-
   labels:
-    app: guestbook-ui
+    app: guestbook-uii
     pod-template-hash: 649789b49c
   name: guestbook-ui-649789b49c-58plk
   namespace: default
