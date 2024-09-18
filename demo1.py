@@ -1,6 +1,6 @@
 import os, sys
 
-def my_function(   a,b):
+def my_function(  a,b):
 print(a+b)  # Indentation error, should be indented under the function
     return  a+b
 
